@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Urban green space research illustration</title>
+  <desc id="desc">Layered city park scene with sensing paths, eye-tracking markers, and data panels.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#d8e9f4"/>
+      <stop offset="1" stop-color="#f8faf7"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#dceee8"/>
+      <stop offset="0.55" stop-color="#a9d2bc"/>
+      <stop offset="1" stop-color="#f1dfc8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#1d2730" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#sky)"/>
+  <path d="M0 822 C160 760 292 770 410 814 C568 874 726 900 892 812 C1018 746 1114 728 1200 746 L1200 1200 L0 1200 Z" fill="url(#ground)"/>
+  <path d="M0 918 C180 858 312 868 466 938 C626 1010 780 1030 966 916 C1056 862 1136 844 1200 852 L1200 1200 L0 1200 Z" fill="#6ca783" opacity="0.72"/>
+  <g opacity="0.92">
+    <rect x="110" y="312" width="82" height="338" rx="8" fill="#6f8590"/>
+    <rect x="218" y="250" width="118" height="420" rx="8" fill="#48606b"/>
+    <rect x="362" y="334" width="76" height="318" rx="8" fill="#7d939b"/>
+    <rect x="928" y="286" width="118" height="384" rx="8" fill="#536b75"/>
+    <rect x="1068" y="372" width="62" height="286" rx="8" fill="#82959c"/>
+  </g>
+  <g fill="#f8faf7" opacity="0.68">
+    <rect x="132" y="350" width="22" height="32" rx="2"/>
+    <rect x="132" y="408" width="22" height="32" rx="2"/>
+    <rect x="254" y="300" width="24" height="34" rx="2"/>
+    <rect x="254" y="360" width="24" height="34" rx="2"/>
+    <rect x="300" y="300" width="24" height="34" rx="2"/>
+    <rect x="300" y="360" width="24" height="34" rx="2"/>
+    <rect x="960" y="334" width="24" height="34" rx="2"/>
+    <rect x="1002" y="334" width="24" height="34" rx="2"/>
+    <rect x="960" y="396" width="24" height="34" rx="2"/>
+    <rect x="1002" y="396" width="24" height="34" rx="2"/>
+  </g>
+  <g filter="url(#shadow)">
+    <circle cx="590" cy="620" r="192" fill="#f8faf7"/>
+    <circle cx="590" cy="620" r="154" fill="#dceee8"/>
+    <path d="M450 660 C486 572 550 510 634 482 C670 540 730 582 748 660 C668 704 548 704 450 660 Z" fill="#126c5a"/>
+    <path d="M494 596 C548 626 620 624 688 568" fill="none" stroke="#f8faf7" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="522" cy="578" r="18" fill="#b86f40"/>
+    <circle cx="672" cy="552" r="18" fill="#b86f40"/>
+  </g>
+  <g fill="none" stroke="#0b433d" stroke-linecap="round" stroke-width="5" opacity="0.78">
+    <path d="M216 838 C324 732 470 724 590 620 C736 494 868 478 1016 384"/>
+    <path d="M278 936 C408 850 500 832 614 724 C738 608 874 606 1014 520"/>
+    <path d="M338 758 C450 790 524 768 590 620 C660 462 760 420 916 438"/>
+  </g>
+  <g>
+    <circle cx="216" cy="838" r="18" fill="#b86f40"/>
+    <circle cx="590" cy="620" r="22" fill="#0b433d"/>
+    <circle cx="1016" cy="384" r="18" fill="#b86f40"/>
+    <circle cx="278" cy="936" r="16" fill="#0b433d"/>
+    <circle cx="614" cy="724" r="16" fill="#b86f40"/>
+    <circle cx="1014" cy="520" r="16" fill="#0b433d"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="768" y="722" width="250" height="154" rx="18" fill="#ffffff"/>
+    <rect x="800" y="756" width="58" height="82" rx="8" fill="#dceee8"/>
+    <rect x="880" y="782" width="58" height="56" rx="8" fill="#b86f40"/>
+    <rect x="960" y="744" width="26" height="94" rx="8" fill="#126c5a"/>
+    <path d="M800 842 L988 842" stroke="#dce4e5" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="174" y="574" width="230" height="132" rx="18" fill="#ffffff"/>
+    <path d="M214 644 C242 596 286 596 314 644 C342 692 386 692 414 644" fill="none" stroke="#126c5a" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="224" cy="620" r="12" fill="#b86f40"/>
+    <circle cx="388" cy="668" r="12" fill="#0b433d"/>
+  </g>
+</svg>
