@@ -295,3 +295,23 @@ a{color:#000!important}
 
 .project-image-note{display:block;padding:0 20px 14px;font:9px/1.6 var(--mono);color:var(--muted)}
 
+
+/* Architectural sketch banner: pale drawing and dark type. */
+.hero-sketch{background:#f7f3e9;color:#203d32}
+.hero-sketch .hero-image{object-position:center center}
+.hero-sketch .hero-shade{background:linear-gradient(90deg,rgba(249,246,236,.80),rgba(249,246,236,.40) 43%,rgba(249,246,236,0) 72%)}
+.hero-sketch .eyebrow{color:#526354}
+.hero-sketch .hero-lead{color:#405748}
+.hero-sketch h1{font-weight:500}
+.hero-sketch .button.light{color:#fff;background:#234b3f;border-color:#234b3f}
+.hero-sketch .button.light:hover{background:#17382c}
+.hero-sketch .hero-caption{color:#526354;background:#fbf8efd9;padding:3px 7px;font-size:8px}
+.novelty-figure{padding:40px 25px}
+.novelty-figure img{max-height:300px;min-height:140px}
+@media(max-width:760px){
+ .hero-sketch .hero-image{object-position:65% center}
+ .hero-sketch .hero-shade{background:linear-gradient(90deg,rgba(249,246,236,.95),rgba(249,246,236,.81) 63%,rgba(249,246,236,.4))}
+ .hero-sketch .hero-caption{font-size:7px;left:20px;right:auto;max-width:calc(100% - 40px)}
+ .novelty-figure{padding:20px 10px}
+ .novelty-figure img{min-height:0}
+}
