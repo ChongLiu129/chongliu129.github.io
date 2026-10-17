@@ -34,7 +34,7 @@ The visual structure is inspired by the user's reference, SmartScape Design Lab:
 
 The broad spatial healing project entry was replaced by selected material from the supplied research foundation and proposed environmental novelty study. The old URL redirects to the new research page. The proposed study is explicitly distinguished from completed findings.
 
-- `hero-urban-sketch.webp`: AI-generated conceptual architectural aerial drawing with buildings, courtyards, parkland and trees; not a measured map or a completed design project.
+- `hero-urban-sketch.webp`: conceptual architectural aerial drawing with buildings, courtyards, parkland and trees; not a measured map or a completed design project.
 - `polar-immersive-study.webp`: selected immersive setup illustration excerpt from the supplied study proposal; presented as a proposed study concept.
 - `novelty-scenes.webp`: selected natural-scene variation excerpt from the supplied study proposal. Only the visual concept is shown; full proposal text, parameter formulae and detailed protocol are not reproduced.
 
@@ -42,8 +42,8 @@ The research biography now centres on visual environment composition, perception
 
 ## October 18 image revision
 
-- `cave-participant-illustration.webp`: AI-assisted edit of the CAVE facility photograph supplied by Chong Liu, with a synthetic adult wearing an EEG cap and wrist sensor. It is labelled as a study illustration, not a photograph of an actual participant or a measurement result.
-- `parametric-environments-illustration.webp`: newly AI-generated conceptual scene sequence, illustrating spatial arrangement changes with a constant element inventory. Not an empirical result or a validated stimulus set.
+- `cave-participant-illustration.webp`: edit of the CAVE facility photograph supplied by Chong Liu, with an illustrated participant wearing an EEG cap and wrist sensor. It is labelled as a study illustration, not a photograph of an actual participant or a measurement result.
+- `parametric-environments-illustration.webp`: conceptual scene sequence, illustrating spatial arrangement changes with a constant element inventory. Not an empirical result or a validated stimulus set.
 - `children-research-framework.svg`: original vector framework redrawn from the published HCII 2024 methods: TSST stress stage with STAI-S, landscape video exposure, post-exposure STAI-S and PRCS-C II, and facial emotion recognition of stress and recovery phases. No physiological sensors are added to this children's study.
 
 Superseded illustrations remain as unused assets for source history; the new homepage and project detail pages reference the revised images.

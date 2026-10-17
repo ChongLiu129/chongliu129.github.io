@@ -325,3 +325,5 @@ a{color:#000!important}
 @media(max-width:760px){.project-photo img{height:auto;aspect-ratio:1.4;max-height:none}.project-framework img{height:auto;aspect-ratio:auto;max-height:none}.parametric-figure{padding:15px 5px}}
 
 .figure-enlarge{color:var(--green);text-decoration:underline;text-underline-offset:3px;white-space:nowrap}
+
+.study-setup{margin-top:65px}.study-setup>h2{font-size:25px;font-weight:500}.cave-figure img{max-height:650px}
