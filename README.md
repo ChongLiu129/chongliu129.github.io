@@ -39,3 +39,11 @@ The broad spatial healing project entry was replaced by selected material from t
 - `novelty-scenes.webp`: selected natural-scene variation excerpt from the supplied study proposal. Only the visual concept is shown; full proposal text, parameter formulae and detailed protocol are not reproduced.
 
 The research biography now centres on visual environment composition, perception, wellbeing and attention, using quantitative landscape analysis, immersive experiments and multimodal human-factor measurements to inform design.
+
+## October 18 image revision
+
+- `cave-participant-illustration.webp`: AI-assisted edit of the CAVE facility photograph supplied by Chong Liu, with a synthetic adult wearing an EEG cap and wrist sensor. It is labelled as a study illustration, not a photograph of an actual participant or a measurement result.
+- `parametric-environments-illustration.webp`: newly AI-generated conceptual scene sequence, illustrating spatial arrangement changes with a constant element inventory. Not an empirical result or a validated stimulus set.
+- `children-research-framework.svg`: original vector framework redrawn from the published HCII 2024 methods: TSST stress stage with STAI-S, landscape video exposure, post-exposure STAI-S and PRCS-C II, and facial emotion recognition of stress and recovery phases. No physiological sensors are added to this children's study.
+
+Superseded illustrations remain as unused assets for source history; the new homepage and project detail pages reference the revised images.

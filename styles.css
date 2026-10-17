@@ -315,3 +315,13 @@ a{color:#000!important}
  .novelty-figure{padding:20px 10px}
  .novelty-figure img{min-height:0}
 }
+
+/* Project-specific image framing. */
+.project-photo img{height:340px;object-fit:cover;object-position:center 65%;padding:0}
+.project-framework img{height:340px;padding:8px}
+.project-framework .image-index{top:6px;left:6px;transform:scale(.75);transform-origin:top left}
+.parametric-figure img{max-height:480px;min-height:0}
+.framework-figure img{max-height:600px}
+@media(max-width:760px){.project-photo img{height:auto;aspect-ratio:1.4;max-height:none}.project-framework img{height:auto;aspect-ratio:auto;max-height:none}.parametric-figure{padding:15px 5px}}
+
+.figure-enlarge{color:var(--green);text-decoration:underline;text-underline-offset:3px;white-space:nowrap}
