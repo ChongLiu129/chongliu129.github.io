@@ -47,3 +47,7 @@ The research biography now centres on visual environment composition, perception
 - `children-research-framework.svg`: original vector framework redrawn from the published HCII 2024 methods: TSST stress stage with STAI-S, landscape video exposure, post-exposure STAI-S and PRCS-C II, and facial emotion recognition of stress and recovery phases. No physiological sensors are added to this children's study.
 
 Superseded illustrations remain as unused assets for source history; the new homepage and project detail pages reference the revised images.
+
+## Profile photograph
+
+`chong-liu-portrait.webp` is the personal photograph supplied by Chong Liu, optimised for web delivery without embedded source metadata. The About section uses a responsive portrait crop, subtle display toning, and matching profile typography. The crop is defined in CSS so the source composition remains available for future layout adjustments.
